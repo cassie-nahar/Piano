@@ -1,0 +1,1 @@
+This program will only run on a Microsoft XP VM in a Microsoft emulator. Otherwise, the sound won't work correctly.
